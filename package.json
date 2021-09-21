@@ -15,7 +15,6 @@
 		"node": "10.x || 12.x"
 	},
 	"devDependencies": {
-		"ansi-regex": "^6.0.1",
 		"chai": "^4.2.0",
 		"mocha": "^7.0.1",
 		"nyc": "*"
